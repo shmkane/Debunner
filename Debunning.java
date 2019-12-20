@@ -1,4 +1,4 @@
-import Universe.Galaxy.Earth.NA.NC.humans.daniels;
+import Universe.Galaxy.Earth.NA.NC.humans.Daniels;
 
 public class Debunning extends Humans{
 
